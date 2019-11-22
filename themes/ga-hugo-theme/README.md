@@ -6,7 +6,3 @@ Clone this repository into the themes/ folder. If you want you can rename it to 
 
 theme = "ga-hugo-theme" 
 
-change some
-
-more change
-ddd
