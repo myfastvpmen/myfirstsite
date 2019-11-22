@@ -6,3 +6,4 @@ Clone this repository into the themes/ folder. If you want you can rename it to 
 
 theme = "ga-hugo-theme" 
 
+this is bracn 1
